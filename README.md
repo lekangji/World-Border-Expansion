@@ -16,4 +16,4 @@ Start off in a small world, and slowly expand your world to gather materials!
 - **World-Specific Settings**: Configure expansion rules per world.
 
 ## Gameplay
-![Thumbnail](https://raw.githubusercontent.com/22yeets22/World-Border-Expansion/refs/heads/main/thumbnail.png)
+![Thumbnail](https://raw.githubusercontent.com/lekangji/World-Border-Expansion/refs/heads/main/thumbnail.png)
